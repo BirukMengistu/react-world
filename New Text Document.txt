@@ -1,1 +1,9 @@
 npx create-react-app my-app
+react  script
+start
+bulid --
+eject
+test
+
+bable - manages condest all react code into basic javascript understood by all webbrowser.
+webpack - divided the junk code in smaller chunk and   

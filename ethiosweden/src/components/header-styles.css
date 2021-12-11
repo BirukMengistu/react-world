@@ -1,0 +1,7 @@
+#header-container{
+    background-image: url('https://mdbootstrap.com/img/new/slides/041.jpg'); 
+    height: 400px;
+}
+.mask{
+    background-color: rgba(0, 0, 0, 0.6);
+}

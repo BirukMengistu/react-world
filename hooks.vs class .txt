@@ -1,0 +1,6 @@
+class is the same concept like other programing language
+Hooks is the kind new concept 
+both  for state mangt
+
+what is state?
+what is constructor
