@@ -1,7 +1,22 @@
 #header-container{
-    background-image: url('https://mdbootstrap.com/img/new/slides/041.jpg'); 
-    height: 400px;
+    background-image: url('../asset/habeshaIT-bg.jpg'); 
+    height: 100vh;
 }
 .mask{
     background-color: rgba(0, 0, 0, 0.6);
 }
+ .text-golden{
+     color:#DAA520;
+ }
+ 
+ 
+ 
+ ul li:active{
+     content: '  ';
+     display:block;
+     margin: 0 ;
+     width: 35%;
+     border-bottom:4px solid  #DAA520;
+     padding: 0;
+     padding-bottom: 0.2rem ;
+ }

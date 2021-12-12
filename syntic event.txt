@@ -1,0 +1,2 @@
+Your event handlers will be passed instances of SyntheticEvent, a
+ cross-browser wrapper around the browser’s native event.
